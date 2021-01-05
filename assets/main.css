@@ -1,0 +1,33 @@
+.minh-50 {
+  height: 50vh;
+}
+
+.minh-50 {
+  height: 50vh;
+}
+
+.img-fluid {
+  max-width: 80% !important;
+  height: auto;
+}
+
+.cabecera {
+  background-color: #dadada;
+  height: 200px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  text-align: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  min-height: 50vh;
+}
+
+.alto {
+  height: 380px;
+}
+/*# sourceMappingURL=main.css.map */

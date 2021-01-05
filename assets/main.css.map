@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "ACGA,AAAA,QAAQ,CAAC;EACL,MAAM,EAAE,IAAI;CACb;;AAIH,AAAA,QAAQ,CAAC;EACP,MAAM,EAAE,IAAI;CACb;;AAED,AAAA,UAAU,CAAA;EACR,SAAS,EAAE,GAAG,CAAA,UAAU;EACxB,MAAM,EAAE,IAAI;CACb;;ACdD,AAAA,SAAS,CAAC;EACN,gBAAgB,EAAE,OAAkB;EACpC,MAAM,EAAE,KAAK;EACb,OAAO,EAAE,IAAI;EACb,UAAU,EAAE,MAAM;EACpB,WAAW,EAAE,MAAM;EACnB,eAAe,EAAE,MAAM;EACvB,UAAU,EAAE,IAAI;CACjB;;AAID,AAAA,KAAK,CAAA;EACD,MAAM,EAAE,KAAK;CAChB",
+    "sources": [
+        "main.scss",
+        "sass/_variables.scss",
+        "sass/_cabecera.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
